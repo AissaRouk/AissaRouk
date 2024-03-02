@@ -4,8 +4,12 @@ I'm a Full Stack Developer with a passion for creating immersive mobile experien
 
 #### 🔧 Technologies & Tools:
 - React Native (JavaScript)
+- React
+- TypeScript
 - Node.js
 - SQL
+- Java
+- C++
 - Ubuntu
 
 #### 💼 Looking For:
