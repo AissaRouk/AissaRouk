@@ -14,6 +14,8 @@ I'm a Full Stack Developer with a passion for creating immersive mobile experien
 
 #### 💼 Looking For:
 - Junior Developer roles in React Native app development
+- Junior Developer roles in React web development
+- Junior Developer
 
 #### 🌱 About Me:
 I'm deeply passionate and hungry about crafting elegant and efficient solutions to complex problems. With a keen eye for detail and a commitment to excellence, I strive to deliver high-quality software that exceeds expectations. Outside of coding, you can find me exploring new technologies, engaging with the developer community, and honing my skills through continuous learning.
